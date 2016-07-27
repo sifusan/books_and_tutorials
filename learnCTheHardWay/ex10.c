@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 		printf("state %d: %s\n", i, states[i]);
 	}
 	
-	for(i = 1; i < argc; i++) {
+	for(i = 0; i < argc; i++) {
 		printf("arg %d: %s\n", i, argv[i]);
 	}
 	
