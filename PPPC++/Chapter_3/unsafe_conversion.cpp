@@ -10,10 +10,10 @@ int main() {
 	 	char c = i;
 	 	int i2 = c;
 	 	
-	 	cout << "d==" << d
-	 			<< "i==" << i
-	 			<< "i2==" << i2
-	 			<< "char(" << c << ")\n";
+	 	cout << "d== " << d
+	 			<< " i== " << i
+	 			<< " i2== " << i2
+	 			<< " char( " << c << ")\n";
 	}
 	
 	return 0;

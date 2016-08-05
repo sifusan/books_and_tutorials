@@ -6,7 +6,7 @@ using std::cout;
 using std::cin;
 
 int main() {
-	cout << "Please enter your first name anf age\n";
+	cout << "Please enter your first name and age\n";
 	string first_name;
 	string last_name;
 	double age = 0.0;

@@ -7,7 +7,7 @@ int main() {
 	int x = a;
 	double y = a;
 	
-	cout << x << y << '\n';
+	cout << x << ' ' << y << '\n';
 	
 	return 0;
 }
